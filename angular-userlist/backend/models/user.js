@@ -8,7 +8,7 @@ let User = new Schema({
    email: {
       type: String
    },
-   designation: {
+   gender: {
       type: String
    },
    phoneNumber: {
